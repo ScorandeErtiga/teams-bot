@@ -13,7 +13,7 @@ from datetime import datetime
 from selenium.webdriver.common.action_chains import ActionChains
 import discord_webhooks
 
-PATH = "/home/abhi/Desktop/teams-bot-linux/chromedriver"
+PATH = "/home/abhi/bot/teams-bot/chromedriver"
 
 
 opt = Options()
